@@ -4,13 +4,13 @@
       "Id": 1,
       "Name": "Dardo Matias",
       "LastName": "Mansilla",
-      "IdentifierOwner": "35744676",
+      "IdentifierOwner": 35744676
     },
     {
       "Id": 2,
       "Name": "Luis Juan",
       "LastName": "perez",
-      "IdentifierOwner": "35000676",
+      "IdentifierOwner": 35000676
     }
   ],
   "Transaction": [
@@ -45,6 +45,8 @@
       "Name": "A Terceros"
     }
   ]
+}
+
 
 
 
