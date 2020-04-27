@@ -15,24 +15,24 @@
   ],
   "Transaction": [
     {
-      "Id": 8,
+      "Id": 1,
       "SourceAccount": 1,
       "DestinationAccount": 2,
       "Date": "2020-08-24 13:50:02",
       "Description": "putoooooooo",
       "Currency": "USD",
       "TypeTransactionId": 1,
-      "OwnerId": 1
+      "OwnerId": 8
     },
     {
-      "Id": 8,
+      "Id": 2,
       "SourceAccount": 1,
       "DestinationAccount": 2,
       "Date": "2020-08-23 13:02:02",
       "Description": "Hola hola uraaaaa",
       "Currency": "USD",
       "TypeTransactionId": 1,
-      "OwnerId": 1
+      "OwnerId": 8
     }
   ],
   "TypeTransaction": [
