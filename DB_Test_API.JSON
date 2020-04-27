@@ -1,0 +1,57 @@
+{
+  "owner": [
+    {
+      "Id": 1,
+      "Name": "Dardo Matias",
+      "LastName": "Mansilla",
+      "IdentifierOwner": "35744676",
+    },
+    {
+      "Id": 2,
+      "Name": "Luis Juan",
+      "LastName": "perez",
+      "IdentifierOwner": "35000676",
+    }
+  ],
+  "Transaction": [
+    {
+      "Id": 1,
+      "SourceAccount": 1,
+      "DestinationAccount": 2,
+      "Date": "2020-08-24 13:50:02",
+      "Description": "transferencia a cuenta corriente propia",
+      "Currency": "USD",
+      "TypeTransactionId": 1,
+      "OwnerId": 1
+    },
+    {
+      "Id": 2,
+      "SourceAccount": 1,
+      "DestinationAccount": 2,
+      "Date": "2020-08-23 13:02:02",
+      "Description": "transferencia a cuenta corriente propia",
+      "Currency": "USD",
+      "TypeTransactionId": 1,
+      "OwnerId": 1
+    }
+  ],
+  "TypeTransaction": [
+    {
+      "Id": 1,
+      "Name": "Propia"
+    },
+    {
+      "Id": 2,
+      "Name": "A Terceros"
+    }
+
+  ]
+
+
+
+
+
+
+
+
+
